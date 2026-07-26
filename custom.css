@@ -23,12 +23,7 @@ nav span.elementor-button-text {
   padding: .5rem .75rem !important;
   border-radius: 3px !important;
 }
-span.elementor-button-text.mod {
-  /*
-  background: unset !important;
-  background-color: unset !important;
-  background-image: unset !important;
-  */
+a.elementor-button-link.mod {
   background-image: linear-gradient(to right, rgba(89, 12, 102, 1), rgba(89, 12, 102, 0.5)) !important;
 }
 .elementor-icon.mod {
