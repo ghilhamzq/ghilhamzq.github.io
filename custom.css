@@ -29,9 +29,6 @@ a.elementor-button-link.mod {
 a.elementor-button-link.mod span {
   color: orange !important;
 }
-a.elementor-button-link.mod span:hover {
-  color: white !important;
-}
 .elementor-icon.mod {
   background: purple !important;
 }
