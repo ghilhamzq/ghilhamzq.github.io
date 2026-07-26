@@ -25,3 +25,6 @@ a.elementor-button span.elementor-button-text {
   background-image: linear-gradient(left to right, rgba(89, 12, 102, 1), rgba(89, 12, 102, 0.5)) !important;
   */
 }
+.elementor-icon-box-icon {
+  background: purple !important;
+}
