@@ -26,6 +26,9 @@ nav span.elementor-button-text {
 a.elementor-button-link.mod {
   background-image: linear-gradient(to right, rgba(89, 12, 102, 0.75), rgba(89, 12, 102, 0.5)) !important;
 }
+a.elementor-button-link.mod span {
+  color: orange !important;
+}
 .elementor-icon.mod {
   background: purple !important;
 }
