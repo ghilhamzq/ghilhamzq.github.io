@@ -14,8 +14,8 @@ h3.elementor-heading-title.elementor-size-default {
   padding: 0 .5rem !important;
 }
 nav span.elementor-button-text {
-  padding: .25rem .5rem !important;
+  padding: .5rem !important;
 }
 a.elementor-button span.elementor-button-text {
-  background-image: linear-gradient(left to right, #be2ed6, #ca5cdd, #da8ee7);
+  background-image: linear-gradient(left to right, #be2ed6, #ca5cdd, #da8ee7) !important;
 }
