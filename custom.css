@@ -25,9 +25,9 @@ a.elementor-button span.elementor-button-text {
   background-image: linear-gradient(left to right, rgba(89, 12, 102, 1), rgba(89, 12, 102, 0.5)) !important;
   */
 }
-.elementor-icon {
+.elementor-icon.mod {
   background: purple !important;
 }
-.elementor-icon path, .elementor-icon circle {
+.elementor-icon.mod path {
   display: none !important;
 }
