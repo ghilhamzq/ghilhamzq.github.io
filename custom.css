@@ -32,16 +32,16 @@ a.elementor-button-link.mod span {
 .elementor-icon.mod {
   background: purple !important;
   background-repeat: no-repeat !important;
-  background-size: 75% !important;
+  background-size: 50% !important;
   background-position: center !important;
 }
-.elementor-icon:nth-child(1 of .mod) {
+.elementor-icon.mod.mod-01 {
     background-image: url('./images/icon_01.png') !important;
 }
-.elementor-icon:nth-child(2 of .mod) {
+.elementor-icon.mod.mod-02 {
     background-image: url('./images/icon_02.png') !important;
 }
-.elementor-icon:nth-child(3 of .mod) {
+.elementor-icon.mod.mod-03 {
     background-image: url('./images/icon_03.png') !important;
 }
 .elementor-icon.mod path {
