@@ -1,4 +1,4 @@
-#wrapper-navbar {
+.uicore-header-wrapper {
   background: white !important;
 }
 h5.elementor-heading-title.elementor-size-default {
@@ -12,4 +12,7 @@ h3.elementor-heading-title.elementor-size-default {
 }
 .elementor-element.elementor-element-5ccc65c.elementor-widget__width-initial.elementor-widget-mobile__width-inherit.elementor-widget.elementor-widget-text-editor p {
   padding: 0 .5rem !important;
+}
+nav span.elementor-button-text {
+  padding: .15rem .25rem !important;
 }
