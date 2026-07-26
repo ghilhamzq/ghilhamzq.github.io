@@ -2,7 +2,7 @@
   background: white !important;
 }
 h5.elementor-heading-title.elementor-size-default {
-  background-image: linear-gradient(to right, purple 33%, black 66%, purple 100%) !important;
+  background-image: linear-gradient(to right, black 0%, purple 33%, black 66%, purple 100%) !important;
   background-clip: text !important;
   -webkit-background-clip: text !important;
   color: transparent !important;
@@ -11,7 +11,7 @@ h1.elementor-heading-title.elementor-size-default {
   padding: 0 .5rem !important;
 }
 h3.elementor-heading-title.elementor-size-default {
-  background-image: linear-gradient(to right, purple 33%, black 66%, purple 100%) !important;
+  background-image: linear-gradient(to right, black 0%, purple 33%, black 66%, purple 100%) !important;
   background-clip: text !important;
   -webkit-background-clip: text !important;
   color: transparent !important;
@@ -24,12 +24,12 @@ nav span.elementor-button-text {
   border-radius: 3px !important;
 }
 span.elementor-button-text.mod {
+  /*
   background: unset !important;
   background-color: unset !important;
   background-image: unset !important;
-  /*
-  background-image: linear-gradient(left to right, rgba(89, 12, 102, 1), rgba(89, 12, 102, 0.5)) !important;
   */
+  background-image: linear-gradient(to right, rgba(89, 12, 102, 1), rgba(89, 12, 102, 0.5)) !important;
 }
 .elementor-icon.mod {
   background: purple !important;
