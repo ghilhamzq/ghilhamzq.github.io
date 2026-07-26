@@ -11,7 +11,7 @@ h1.elementor-heading-title.elementor-size-default {
   padding: 0 .5rem !important;
 }
 h3.elementor-heading-title.elementor-size-default {
-  background-image: linear-gradient(to right, black 0%, purple 33%, black 66%, purple 100%) !important;
+  background-image: linear-gradient(to right, purple 0%, orange 33%, purple 66%, orange 100%) !important;
   background-clip: text !important;
   -webkit-background-clip: text !important;
   color: transparent !important;
@@ -32,7 +32,7 @@ a.elementor-button-link.mod span {
 .elementor-icon.mod {
   background: purple !important;
   background-repeat: no-repeat !important;
-  background-size: 65% !important;
+  background-size: 75% !important;
   background-position: center !important;
 }
 .elementor-icon.mod.mod-01 {
