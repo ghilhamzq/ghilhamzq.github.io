@@ -24,7 +24,7 @@ nav span.elementor-button-text {
   border-radius: 3px !important;
 }
 a.elementor-button-link.mod {
-  background-image: linear-gradient(to right, rgba(89, 12, 102, 1), rgba(89, 12, 102, 0.5)) !important;
+  background-image: linear-gradient(to right, rgba(89, 12, 102, 0.75), rgba(89, 12, 102, 0.5)) !important;
 }
 .elementor-icon.mod {
   background: purple !important;
