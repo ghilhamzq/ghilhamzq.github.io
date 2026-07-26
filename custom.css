@@ -28,6 +28,6 @@ a.elementor-button span.elementor-button-text {
 .elementor-icon {
   background: purple !important;
 }
-.elementor-icon path {
+.elementor-icon path, .elementor-icon circle {
   display: none !important;
 }
