@@ -31,6 +31,18 @@ a.elementor-button-link.mod span {
 }
 .elementor-icon.mod {
   background: purple !important;
+  background-repeat: no-repeat !important;
+  background-size: 90% !important;
+  background-position: center !important;
+}
+.elementor-icon.mod:nth-child(1) {
+    background-image: url('./images/icon_01.png');
+}
+.elementor-icon.mod:nth-child(2) {
+    background-image: url('./images/icon_02.png');
+}
+.elementor-icon.mod:nth-child(3) {
+    background-image: url('./images/icon_03.png');
 }
 .elementor-icon.mod path {
   display: none !important;
