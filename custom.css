@@ -1,6 +1,9 @@
 h5.elementor-heading-title.elementor-size-default {
-  color: purple;
+  color: purple !important;
 }
 h1.elementor-heading-title.elementor-size-default {
-  padding: 1rem 0;
+  padding: 0 .5rem;
+}
+h3.elementor-heading-title.elementor-size-default {
+  color: purple !important;
 }
