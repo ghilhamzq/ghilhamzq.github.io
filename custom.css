@@ -18,5 +18,10 @@ nav span.elementor-button-text {
   border-radius: 3px !important;
 }
 a.elementor-button span.elementor-button-text {
+  background: unset !important;
+  background-color: unset !important;
+  background-image: unset !important;
+  /*
   background-image: linear-gradient(left to right, rgba(89, 12, 102, 1), rgba(89, 12, 102, 0.5)) !important;
+  */
 }
